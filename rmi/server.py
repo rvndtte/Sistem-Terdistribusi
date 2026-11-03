@@ -1,5 +1,5 @@
 """RMI dengan Pyro5 - SERVER.
-Contoh: python rmi_server.py --host 0.0.0.0 --port 9090 --delay 1
+Contoh: python rmi/server.py --host 0.0.0.0 --port 9090 --delay 1
 URI objek: PYRO:uts.data@<host>:9090
 """
 import argparse

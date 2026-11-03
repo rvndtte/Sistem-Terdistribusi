@@ -2,7 +2,7 @@
 Protokol: [4 byte panjang big-endian][payload]. Server membalas "ACK" setelah
 selesai memproses pesan (sinkron: client menunggu balasan ini).
 
-Contoh: python tcp_server.py --port 5000 --delay 1
+Contoh: python message_passing/server.py --port 5000 --delay 1
 """
 import argparse
 import socket

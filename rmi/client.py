@@ -1,9 +1,9 @@
 """RMI dengan Pyro5 - CLIENT.
 
 Contoh:
-  python rmi_client.py --sizes 200 400 600 800 1000
-  python rmi_client.py --text "Halo dari client"
-  python rmi_client.py --sizes 200 --count 5
+  python rmi/client.py --sizes 200 400 600 800 1000
+  python rmi/client.py --text "Halo dari client"
+  python rmi/client.py --sizes 200 --count 5
 """
 import argparse
 import random

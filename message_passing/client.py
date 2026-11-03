@@ -1,9 +1,9 @@
 """Message passing (socket TCP) - CLIENT.
 
 Contoh:
-  python tcp_client.py --sizes 200 400 600 800 1000        # uji ukuran data
-  python tcp_client.py --text "Halo dari client"            # uji marshaling
-  python tcp_client.py --sizes 200 --count 5                # uji sync (server pakai --delay)
+  python message_passing/client.py --sizes 200 400 600 800 1000   # uji ukuran data
+  python message_passing/client.py --text "Halo dari client"       # uji marshaling
+  python message_passing/client.py --sizes 200 --count 5           # uji sync (server pakai --delay)
 """
 import argparse
 import random
