@@ -1,0 +1,7 @@
+Publish ke localhost:1883 topik 'uts/data', 200.0 KB, QoS 1, 5x
+[10:48:48] kirim #1 selesai, 0.001 detik (+0.001s sejak mulai)
+[10:48:48] kirim #2 selesai, 0.000 detik (+0.002s sejak mulai)
+[10:48:48] kirim #3 selesai, 0.000 detik (+0.002s sejak mulai)
+[10:48:48] kirim #4 selesai, 0.000 detik (+0.002s sejak mulai)
+[10:48:48] kirim #5 selesai, 0.000 detik (+0.003s sejak mulai)
+Total waktu: 0.003 detik

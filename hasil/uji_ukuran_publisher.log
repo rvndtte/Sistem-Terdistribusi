@@ -1,0 +1,15 @@
+Publish ke localhost:1883 topik 'uts/data', 200.0 KB, QoS 1, 1x
+[10:48:36] kirim #1 selesai, 0.001 detik (+0.001s sejak mulai)
+Total waktu: 0.001 detik
+Publish ke localhost:1883 topik 'uts/data', 400.0 KB, QoS 1, 1x
+[10:48:37] kirim #1 selesai, 0.002 detik (+0.002s sejak mulai)
+Total waktu: 0.002 detik
+Publish ke localhost:1883 topik 'uts/data', 600.0 KB, QoS 1, 1x
+[10:48:38] kirim #1 selesai, 0.003 detik (+0.003s sejak mulai)
+Total waktu: 0.003 detik
+Publish ke localhost:1883 topik 'uts/data', 800.0 KB, QoS 1, 1x
+[10:48:39] kirim #1 selesai, 0.004 detik (+0.004s sejak mulai)
+Total waktu: 0.004 detik
+Publish ke localhost:1883 topik 'uts/data', 1000.0 KB, QoS 1, 1x
+[10:48:40] kirim #1 selesai, 0.005 detik (+0.005s sejak mulai)
+Total waktu: 0.005 detik

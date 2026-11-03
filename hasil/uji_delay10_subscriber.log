@@ -1,0 +1,12 @@
+Terhubung ke broker localhost:1883 (Success)
+Subscribe topik 'uts/data' QoS 1, delay 10.0s. Ctrl+C untuk berhenti.
+[10:49:30] pesan #1 diterima: 200 KB (QoS 1)
+[10:49:40] selesai memproses pesan #1
+[10:49:40] pesan #2 diterima: 200 KB (QoS 1)
+[10:49:50] selesai memproses pesan #2
+[10:49:50] pesan #3 diterima: 200 KB (QoS 1)
+[10:50:00] selesai memproses pesan #3
+[10:50:00] pesan #4 diterima: 200 KB (QoS 1)
+[10:50:10] selesai memproses pesan #4
+[10:50:10] pesan #5 diterima: 200 KB (QoS 1)
+[10:50:20] selesai memproses pesan #5
